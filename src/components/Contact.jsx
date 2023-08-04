@@ -27,16 +27,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_r0jcplm",
-        "template_1t76uxq",
+        "service_pvf6ttk",
+        "template_hvi7765",
         {
           form_name: form.name,
-          to_name: "Liron",
+          to_name: "Ayomide",
           from_email: form.email,
-          to_email: "contact@mail.com",
+          to_email: "ayomidebabarinde07@mail.com",
           message: form.message,
         },
-        "Jqq9AvwIuSjoMiA5c"
+        "WRzR24HI5iPcEk6oA"
       )
       .then(
         () => {
