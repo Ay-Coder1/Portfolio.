@@ -198,9 +198,9 @@ const projects = [
     source_code_link: "https://github.com/Ay-Coder1/",
   },
   {
-    name: "Trip Guide",
+    name: "Car Rental",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+       "A comprehensive Car Rental platform that allows users to buy cars and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
         name: "reactjs",
